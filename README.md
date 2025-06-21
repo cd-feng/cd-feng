@@ -34,7 +34,7 @@
 ---
 
 <details>
-<summary>🇨🇳 点击展开中文版本</summary>
+<summary> 中文介绍 </summary>
 
 # 👋 Hello world，一名来自东方从事后端研发的小学生！
 
